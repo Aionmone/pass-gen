@@ -1,4 +1,4 @@
-# pass_gen
+# pass-gen
 A command line interface (and Python library) for generating passwords
 
 ## Installation
