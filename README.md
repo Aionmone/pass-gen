@@ -4,7 +4,7 @@ A command line interface (and Python library) for generating passwords
 ## Installation
 
 ```bash
-$ pip install -i pass-gen
+$ pip install pass-gen
 ```
 
 ## Command line usage
