@@ -1,7 +1,7 @@
 # Python lib
 from random import choice
 
-__version__ = '0.0.4'
+__version__ = '0.0.5'
 
 NUMBERS = ''.join([chr(i) for i in range(48, 58)])
 UPPERCASE_LETTERS = ''.join([chr(i) for i in range(65, 91)])
