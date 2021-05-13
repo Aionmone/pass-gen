@@ -32,7 +32,7 @@ password = pass_gen.generate(10)
 
 ## Contributors
 
-- Abdulrahman M. Zaky (https://www.github.com/Aionmone)
+- Abdulrahman M. Zaky (https://github.com/Aionmone)
 
 ## License
 **pass_gen** is licensed under the MIT license. See the license file for details.
