@@ -1,4 +1,7 @@
 # pass-gen
+![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/Aionmone/pass-gen?color=blueviolet&include_prereleases&label=release&sort=semver&style=flat-square)
+
+## Intro
 A command line interface (and Python library) for generating passwords
 
 ## Installation
